@@ -6,4 +6,6 @@ Para falar com o autor e buscar materiais adicionais ao curso, envie um email pa
 
 Para fazer uma cópia local desse conteúdo, utilize o seguinte comando:
 
-$ git clone 
+$ git clone git@github.com:tiagomarciano/curso-power-bi.git
+
+Ou, clique em Download Zip 
