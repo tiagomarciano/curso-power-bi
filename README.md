@@ -4,7 +4,7 @@ Para falar com o autor e buscar materiais adicionais ao curso, envie um email pa
 
 ### Materiais do Curso
 
-Para fazer uma cópia local desse conteúdo, utilize o seguinte comando:
+Caso utilize o Git, para fazer uma cópia local desse conteúdo, utilize o seguinte comando:
 
 ```
 $ git clone git@github.com:tiagomarciano/curso-power-bi.git
