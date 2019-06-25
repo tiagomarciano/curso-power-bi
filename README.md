@@ -8,4 +8,4 @@ Para fazer uma cópia local desse conteúdo, utilize o seguinte comando:
 
 $ git clone git@github.com:tiagomarciano/curso-power-bi.git
 
-Ou, clique em Download Zip 
+Ou, baixe os materiais por meio do link: https://github.com/tiagomarciano/curso-power-bi/archive/master.zip
