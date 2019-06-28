@@ -1,0 +1,11 @@
+ID	Fabricante	Produto
+1	Caloi	Speed - Caloi Sprint
+2	Caloi	MTB - Caloi Explorer Expert
+3	Audax	MTB - Audax Auge 20 Carbon
+4	Specialized	MTB - Specialized Comp
+5	Giant	Speed - Giant Comp
+6	Scott	MTB - Scott Scale 999
+7	Caloi	MTB - Caloi Explorer
+8	OGGI	MTB - OGGI Hacker
+9	Scott	MTB - Scott Scale 980
+10	Caloi	Speed - Caloi Strada
